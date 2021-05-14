@@ -15,10 +15,10 @@ about.addEventListener('click', () => {
     left: 50,
     mount: aboutContent,
     onfocus: function () {
-      this.setBackground('#00aa00')
+      this.setBackground("#DD4814");
     },
     onblur: function () {
-      this.setBackground('#777')
+      this.setBackground("#5e2750");
     },
   })
 })
@@ -34,10 +34,10 @@ contact.addEventListener('click', () => {
     left: 250,
     mount: contactContent,
     onfocus: function () {
-      this.setBackground('#00aa00')
+      this.setBackground("#DD4814");
     },
     onblur: function () {
-      this.setBackground('#777')
+      this.setBackground("#77216f");
     },
   })
 })

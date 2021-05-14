@@ -7,13 +7,14 @@
 }
 
 :root {
-  --text-color: #00aa00;
+  --text-color: #81b214;
 }
 
 body {
   font-family: 'Roboto Mono', sans-serif;
-  background-color: #333;
-  color: #ccc;
+  background-color: #ff8303;
+  background-image: url("../wallpaper.jpg");
+  color: #f2f2f2;
   font-size: 18px;
   line-height: 1.6;
 }
@@ -35,6 +36,9 @@ h3 {
 
 ul {
   list-style-type: none;
+}
+li{
+  font-weight: bolder;
 }
 
 a {
@@ -72,7 +76,7 @@ nav ul li {
 }
 
 .wb-body {
-  background: #111;
+  background: #2c001e;
   padding: 20px;
 }
 
