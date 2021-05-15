@@ -12,7 +12,6 @@
 
 body {
   font-family: 'Roboto Mono', sans-serif;
-  background-color: #ff8303;
   background-image: url("../wallpaper.jpg");
   color: #f2f2f2;
   font-size: 18px;
@@ -22,7 +21,7 @@ body {
 h1 {
   color: var(--text-color);
   font-size: 50px;
-  letter-spacing: -5px;
+  letter-spacing: 0.5px;
   margin-bottom: 20px;
 }
 
